@@ -23,7 +23,7 @@ int main() {
 	img=img_gray;
 	imshow("Pic_gray", img);
 
-	Sobel()
+//	Sobel()
 
 	waitKey(0);
 	return 0;
